@@ -8,3 +8,5 @@ proporsional sebaiknya kedua atribut tersebut diisi semua atau tidak? Berikan pe
 5. Pada link tambahkan atribut target dengan nilai atribut bervariasi ( _blank, _self, _top,
 _parent ), apa yang terjadi pada masing-masing nilai antribut tersebut?
 
+## Jawab
+1. ![img1!](img/1.png "before")
