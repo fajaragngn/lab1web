@@ -18,4 +18,4 @@ Seperti gambar dibawah
 2. Tag `<p>`
 Tag ini berfungsi untuk memberi perintah paragraf pada halaman html, antara baris atau paragraf terbentuk jarak.
 
-Tag `<br>` berfungsi untuk memberikan perintah breakline atau baris baru.
+	Tag `<br>` berfungsi untuk memberikan perintah breakline atau baris baru.
