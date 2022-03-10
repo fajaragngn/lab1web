@@ -32,7 +32,7 @@ Tag ini berfungsi untuk memberi perintah paragraf pada halaman html, antara bari
 
 5. `_blank` untuk membuka link di tab baru
 
-	`_self` untuk membuka link di frame link itu berada. ini merupakan setelan dasar link jika pada elemen link tidak diberi atribut target
+	`_self` untuk membuka link di frame link itu berada
 
 	`_top` untuk membuka link di frame paling atas (paling luar).  contohnya jika di website(1) di dalamnya ada website(2) lalu di website(2) di dalamnya ada website (3) lalu di website (3) ini ada link dan kita klik, maka link akan terbuka di website(1)
 
