@@ -19,3 +19,4 @@ Seperti gambar dibawah
 Tag ini berfungsi untuk memberi perintah paragraf pada halaman html, antara baris atau paragraf terbentuk jarak.
 
 	Tag `<br>` berfungsi untuk memberikan perintah breakline atau baris baru.
+![img2!](img/2/p-br.png "paragraf & br")
