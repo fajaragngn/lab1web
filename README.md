@@ -9,4 +9,5 @@ proporsional sebaiknya kedua atribut tersebut diisi semua atau tidak? Berikan pe
 _parent ), apa yang terjadi pada masing-masing nilai antribut tersebut?
 
 ## Jawab
-1. ![img1!](img/1/before.png "before")
+1. 
+![img1!](img/1/before.png "before")
