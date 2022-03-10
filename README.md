@@ -24,3 +24,4 @@ Tag ini berfungsi untuk memberi perintah paragraf pada halaman html, antara bari
 3. `title` berfungsi untuk memberikan judul pada gambar
 
 	`alt` berfungsi untuk menunjukkan sebuah alternate text (teks pengganti) yang akan muncul apabila gambar tidak dapat ditampilkan
+![img3!](img/3/title-alt.png "title alt")
