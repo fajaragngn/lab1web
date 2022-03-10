@@ -15,10 +15,9 @@ Lalu ketika saya hilangkan akhiran pada Tag `</h1>`menjadi `<h1>`, maka yang aka
 Seperti gambar dibawah
 ![img1!](img/1/after.png "after")
 
-2. Tag `<p>`
-Tag ini berfungsi untuk memberi perintah paragraf pada halaman html, antara baris atau paragraf terbentuk jarak.
+2. Tag `<p>` berfungsi untuk memberi perintah paragraf pada halaman html
 
-	Tag `<br>` berfungsi untuk memberikan perintah breakline atau baris baru.
+	Tag `<br>` berfungsi untuk memberikan perintah breakline atau baris baru
 ![img2!](img/2/p-br.png "paragraf & br")
 
 3. `title` berfungsi untuk memberikan judul pada gambar
