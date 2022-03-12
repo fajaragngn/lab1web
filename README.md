@@ -1,3 +1,10 @@
+## Langkah langkah praktikum
+1. Membuka text editor Sublime text
+![img1!](img/praktikum/1.png)
+
+2. 
+
+
 ## Jawab Pertanyaan Berikut
 1. Lakukan perubahan pada kode sesuai dengan keinginan anda, amati perubahannya adakah
 error ketika terjadi kesalahan penulisan tag?
