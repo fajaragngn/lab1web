@@ -1,8 +1,8 @@
 ## Langkah langkah praktikum
-1. Membuka text editor Sublime text
+Membuka text editor Sublime text
 ![img1!](img/praktikum/1.png)
 
-2. 
+## Membuat Paragraf 
 
 
 ## Jawab Pertanyaan Berikut
