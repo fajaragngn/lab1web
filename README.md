@@ -45,7 +45,7 @@ Seperti gambar dibawah
 2. Tag `<p>` berfungsi untuk memberi perintah paragraf pada halaman html
 
 	Tag `<br>` berfungsi untuk memberikan perintah breakline atau baris baru
-![img2!](img/2/p-br.png "paragraf & br")
+![img2!](img/2/paragraf.png "paragraf & br")
 
 3. `title` berfungsi untuk memberikan judul pada gambar
 
