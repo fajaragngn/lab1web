@@ -1,7 +1,7 @@
 | Nama      | Fajar Agung Nugroho |
 | ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
+| NIM     | 312010448       |
+| Kelas   | TI.20.A.1        |
 
 ## Langkah langkah praktikum
 Membuka text editor Sublime text
