@@ -3,6 +3,13 @@ Membuka text editor Sublime text
 ![img1!](img/praktikum/1.png)
 
 ## Membuat Paragraf 
+![img2!](img/praktikum/2.png)
+
+## Menambahkan Judul
+![img3!](img/praktikum/3.png)
+
+## Memformat Text
+![img4!](img/praktikum/4.png)
 
 
 ## Jawab Pertanyaan Berikut
