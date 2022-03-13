@@ -16,6 +16,8 @@ Membuka text editor Sublime text
 
 ## 5. Menambahkan Hyperlink
 ![img6!](img/praktikum/6.png)
+Lalu berikutnya halaman 2
+![img6-6!](img/praktikum/6-6.png)
 
 
 ## Jawab Pertanyaan Berikut
