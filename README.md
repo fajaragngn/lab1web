@@ -2,14 +2,20 @@
 Membuka text editor Sublime text
 ![img1!](img/praktikum/1.png)
 
-## Membuat Paragraf 
+## 1. Membuat Paragraf 
 ![img2!](img/praktikum/2.png)
 
-## Menambahkan Judul
+## 2. Menambahkan Judul
 ![img3!](img/praktikum/3.png)
 
-## Memformat Text
+## 3. Memformat Text
 ![img4!](img/praktikum/4.png)
+
+## 4. Menyisipkan Gambar
+![img5!](img/praktikum/5.png)
+
+## 5. Menambahkan Hyperlink
+![img6!](img/praktikum/6.png)
 
 
 ## Jawab Pertanyaan Berikut
