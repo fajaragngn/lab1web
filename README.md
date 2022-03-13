@@ -1,4 +1,4 @@
-| Syntax      | Description |
+| Nama      | Fajar Agung Nugroho |
 | ----------- | ----------- |
 | Header      | Title       |
 | Paragraph   | Text        |
