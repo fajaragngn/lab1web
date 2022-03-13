@@ -54,7 +54,7 @@ Seperti gambar dibawah
 	gambar dibawah ini menunjukan perbedaan title dan alt, dimana pada bagian alt terdapat judul gambar saat tidak bisa ditampilkan
 ![img3!](img/3/alt-title.png "alt title")
 
-4. Menurut saya Kedua property ini sangat penting dan merupakan bagian yang tidak terpisahkan dari sebuah website karena masing-masing Tag atau Element pada sebuah HTML perlu memiliki ukuran yang ideal sebab hal itu berpengaruh dalam pengaturan tataletak dan tampilan sebuah website,
+4. Menurut saya Kedua property ini sangat penting dan merupakan bagian yang tidak terpisahkan dari sebuah website karena masing-masing Tag atau Element pada sebuah HTML perlu memiliki ukuran yang ideal, sebab itu berpengaruh dalam pengaturan tataletak dan tampilan sebuah website,
 
 	Kecuali pada kondisi tertentu seperti gambar sudah memiliki ukuran yang pas/proporsional cukup mengatur width nya saja
 ![img4!](img/4/1.png)
