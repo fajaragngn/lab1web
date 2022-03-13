@@ -1,3 +1,6 @@
+| Nama   | Fajar Agung Nugroho |
+| NIM    | 312010448           |
+
 ## Langkah langkah praktikum
 Membuka text editor Sublime text
 ![img1!](img/praktikum/start.png)
