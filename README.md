@@ -51,7 +51,7 @@ Seperti gambar dibawah
 
 	`alt` berfungsi untuk menunjukkan sebuah alternate text (teks pengganti) yang akan muncul apabila gambar tidak dapat ditampilkan.
 
-	gambar dibawah ini menunjukan perbedaan title dan alt, dimana pada bagian alt terdapat judul pada saat gambar tidak bisa ditampilkan
+	gambar dibawah ini menunjukan perbedaan title dan alt, dimana pada bagian alt terdapat judul gambar saat tidak bisa ditampilkan
 ![img3!](img/3/alt-title.png "alt title")
 
 4. Menurut saya Kedua property ini sangat penting dan merupakan bagian yang tidak terpisahkan dari sebuah website karena masing-masing Tag atau Element pada sebuah HTML perlu memiliki ukuran yang ideal sebab hal itu berpengaruh dalam pengaturan tataletak dan tampilan sebuah website,
