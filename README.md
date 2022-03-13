@@ -37,10 +37,10 @@ _parent ), apa yang terjadi pada masing-masing nilai antribut tersebut?
 
 ## Jawab
 1. Saya akan melakukan perubahan pada tag html, gambar dibawah merupakan syntax HTML sebelum saya rubah
-![img1!](img/1/before.png "before")
+![img1!](img/1/1.png "before")
 Lalu ketika saya hilangkan akhiran pada Tag `</h1>`menjadi `<h1>`, maka yang akan terjadi seluruh elemen dibawah tag tersebut akan berubah mengikuti Tag `<h1>` dikarenakan tidak ada akhiran/penutup Tag tersebut. 
 Seperti gambar dibawah
-![img1!](img/1/after.png "after")
+![img1!](img/1/1-1.png "after")
 
 2. Tag `<p>` berfungsi untuk memberi perintah paragraf pada halaman html
 
