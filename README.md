@@ -1,6 +1,6 @@
 ## Langkah langkah praktikum
 Membuka text editor Sublime text
-![img1!](img/praktikum/1.png)
+![img1!](img/praktikum/start.png)
 
 ## 1. Membuat Paragraf 
 ![img2!](img/praktikum/2.png)
